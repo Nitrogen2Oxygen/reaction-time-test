@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reaction-time-test/static/css/main.6a4dc108.chunk.css",
-    "main.js": "/reaction-time-test/static/js/main.42bc406d.chunk.js",
-    "main.js.map": "/reaction-time-test/static/js/main.42bc406d.chunk.js.map",
+    "main.css": "/reaction-time-test/static/css/main.ab515e83.chunk.css",
+    "main.js": "/reaction-time-test/static/js/main.30a6f57e.chunk.js",
+    "main.js.map": "/reaction-time-test/static/js/main.30a6f57e.chunk.js.map",
     "runtime-main.js": "/reaction-time-test/static/js/runtime-main.d31d7f2d.js",
     "runtime-main.js.map": "/reaction-time-test/static/js/runtime-main.d31d7f2d.js.map",
-    "static/js/2.c4cfde1d.chunk.js": "/reaction-time-test/static/js/2.c4cfde1d.chunk.js",
-    "static/js/2.c4cfde1d.chunk.js.map": "/reaction-time-test/static/js/2.c4cfde1d.chunk.js.map",
+    "static/js/2.a47107d7.chunk.js": "/reaction-time-test/static/js/2.a47107d7.chunk.js",
+    "static/js/2.a47107d7.chunk.js.map": "/reaction-time-test/static/js/2.a47107d7.chunk.js.map",
     "index.html": "/reaction-time-test/index.html",
     "service-worker.js": "/reaction-time-test/service-worker.js",
     "service-worker.js.map": "/reaction-time-test/service-worker.js.map",
-    "static/css/main.6a4dc108.chunk.css.map": "/reaction-time-test/static/css/main.6a4dc108.chunk.css.map",
-    "static/js/2.c4cfde1d.chunk.js.LICENSE.txt": "/reaction-time-test/static/js/2.c4cfde1d.chunk.js.LICENSE.txt"
+    "static/css/main.ab515e83.chunk.css.map": "/reaction-time-test/static/css/main.ab515e83.chunk.css.map",
+    "static/js/2.a47107d7.chunk.js.LICENSE.txt": "/reaction-time-test/static/js/2.a47107d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d31d7f2d.js",
-    "static/js/2.c4cfde1d.chunk.js",
-    "static/css/main.6a4dc108.chunk.css",
-    "static/js/main.42bc406d.chunk.js"
+    "static/js/2.a47107d7.chunk.js",
+    "static/css/main.ab515e83.chunk.css",
+    "static/js/main.30a6f57e.chunk.js"
   ]
 }
